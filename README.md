@@ -1,3 +1,10 @@
+
+## Contributors:
+[Mbelaman](https://github.com/mojahid-belaman)
+[Zjamali](https://github.com/zjamali)
+[Abdait-m](https://github.com/nowl01)
+[Iltafah](https://github.com/iltafah)
+
 # ft_transcendence
 
 ft_trancsendence is a website (Single-Page Application) that provides a nice user interface, a real-time chat, and real-time multiplayer online Ping Pong game.
@@ -58,9 +65,3 @@ your preferred browser.
 ```sh
 http://localhost:3000/
 ```
-
-## Contributors:
-[Mbelaman](https://github.com/mojahid-belaman)
-[Zjamali](https://github.com/zjamali)
-[Abdait-m](https://github.com/nowl01)
-[Iltafah](https://github.com/iltafah)
