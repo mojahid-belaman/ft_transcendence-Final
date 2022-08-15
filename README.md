@@ -60,7 +60,7 @@ http://localhost:3000/
 ```
 
 ## Contributors:
+[Mbelaman](https://github.com/mojahid-belaman)
 [Zjamali](https://github.com/zjamali)
 [Abdait-m](https://github.com/nowl01)
 [Iltafah](https://github.com/iltafah)
-[Mbelamin](https://github.com/mojahid-belaman)
